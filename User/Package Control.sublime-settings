@@ -1,0 +1,22 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"BracketHighlighter",
+		"C++ Completions",
+		"C++ Snippets",
+		"C++ Starting Kit",
+		"C++11",
+		"Package Control",
+		"Theme - Soda",
+		"Vintageous"
+	],
+	"repositories":
+	[
+		"https://github.com/guillermooo/Vintageous"
+	]
+}
