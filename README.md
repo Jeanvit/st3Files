@@ -17,7 +17,7 @@ This is my Sublime Text 3's configuration files and dictionaries, optimized for 
 
 # Installation
 - [Install Sublime 3](https://www.sublimetext.com/) or backup your current config files: `cp -r ~/.config/sublime-text-3 ~/.config/sublime-text-3-oldconf`
-- Install Package Control by clicking  `« Install Package Control »`
-- Remove the old Package folder: `sudo rm -rf ~/.config/sublime-text-3/Packages/`
+- Open Sublime and install "Package Control" by clicking  `« Install Package Control »`
+- Remove the old Packages folder: `sudo rm -rf ~/.config/sublime-text-3/Packages/`
 - Clone the project `git clone https://github.com/jeanvit/st3Files.git ~/.config/sublime-text-3/Packages/`
-- Start Sublime and wait the installation.
+- Start Sublime and wait the installation
