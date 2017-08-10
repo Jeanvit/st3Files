@@ -16,7 +16,8 @@ This is my Sublime Text 3's configuration files and dictionaries, optimized for 
  - Brazillian Portuguese
 
 # Installation
-- [Install Sublime 3](https://www.sublimetext.com/) or backup your current config files: `cp ~/.config/sublime-text-3 ~/.config/sublime-text-3-oldconf`
+- [Install Sublime 3](https://www.sublimetext.com/) or backup your current config files: `cp -r ~/.config/sublime-text-3 ~/.config/sublime-text-3-oldconf`
 - Install Package Control by clicking  `« Install Package Control »`
-- Clone the project in your config folder `git clone https://github.com/jeanvit/st3Files.git ~/.config/sublime-text-3/Packages/`
+- Remove the old Package folder: `sudo rm -rf ~/.config/sublime-text-3/Packages/`
+- Clone the project `git clone https://github.com/jeanvit/st3Files.git ~/.config/sublime-text-3/Packages/`
 - Start Sublime and wait the installation.
