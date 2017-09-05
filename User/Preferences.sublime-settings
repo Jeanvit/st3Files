@@ -2,7 +2,9 @@
 	"added_words":
 	[
 		"Canny",
-		"pixels"
+		"pixels",
+		"Husplo",
+		"Intro"
 	],
 	"always_show_minimap_viewport": true,
 	"bold_folder_labels": true,
@@ -15,7 +17,10 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
+		"0_package_control_loader",
+		"LaTeXing",
 		"Vintage"
 	],
-	"wide_caret": true
+	"wide_caret": true,
+	"auto_complete_selector": "source, text"
 }
