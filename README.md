@@ -8,9 +8,10 @@ This is my Sublime Text 3's configuration files and dictionaries, optimized for 
  - C++ Snippets
  - C++ Starting Kit
  - C++ 11
+ - LaTeXSnippets
  - LaTeXTools
- - Theme: Soda
- - Vintageous
+ - Sidebar Enhancements
+ - WordCount
  
  ### Dictionary
  - Brazillian Portuguese
